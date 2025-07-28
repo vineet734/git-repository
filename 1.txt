@@ -1,1 +1,2 @@
-First file in my Git repository
+some changes
+another line in 1.txt
