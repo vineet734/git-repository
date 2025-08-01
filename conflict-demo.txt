@@ -1,2 +1,5 @@
 Welcome to git conflict demo
-This change is done in demo.txt from branch-a
+<<<<<<< HEAD
+This change is done in demo.txt from branch-a and branch-b
+=======
+
