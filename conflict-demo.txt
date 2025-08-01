@@ -1,1 +1,2 @@
 Welcome to git conflict demo
+This change is from branch-b
